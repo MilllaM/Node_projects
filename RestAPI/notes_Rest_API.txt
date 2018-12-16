@@ -1,0 +1,57 @@
+
+
+8.11.  REST API:
+this example will only have GET requests
+small text based game repo 
+
+open data (search: avoin data)
+
+start with "npm init"
+OR npm init --yes  (to avoid pressing yes-s)
+
+npm install express cors
+
+eslint --init
+
+APO: create the needed images!
+
+
+14.11.
+
+CORS - see also earlier IceCream server, it was used there as well
+
+gameAPI.js:
+fs.readdir -> tästä löytyy lisätietoa node.js dokumentaatiosta (file system methods)
+
+Promise.all(data.map()) -> map will return a new array
+
+
+check the homepage.html (in pdf) and see id it works!
+
+
+APO: lataa 6 harjoitusta Ilkan levyltä, kato löytyiskö sopivaa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
